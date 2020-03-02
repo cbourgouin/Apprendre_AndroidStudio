@@ -1,4 +1,4 @@
-package me.cbourgouin.topquiz.Controller;
+package me.cbourgouin.topquiz.Controller.Controller;
 
 import androidx.appcompat.app.AppCompatActivity;
 
